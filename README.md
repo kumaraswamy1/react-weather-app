@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## You can checkout the pROJECT here [Misty-weather](https://misty-weather.netlify.app/).
+## You can checkout the project here [Misty-weather](https://misty-weather.netlify.app/).
 
 
 ## Available Scripts
